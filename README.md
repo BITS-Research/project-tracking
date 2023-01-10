@@ -1,2 +1,2 @@
 # project-tracking
-Dummy repo for general project tracking
+LS repo for project tracking
